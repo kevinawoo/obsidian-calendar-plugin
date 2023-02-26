@@ -5,8 +5,6 @@ import builtins from "builtin-modules";
 import sveltePlugin from "esbuild-svelte";
 import sveltePreprocess from "svelte-preprocess";
 
-import manifest from "./manifest.json";
-
 config();
 
 const banner = `/*

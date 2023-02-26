@@ -18,7 +18,8 @@
     "obsidian-calendar-ui": "file:../obsidian-calendar-ui",
     "obsidian-daily-notes-interface": "0.9.4",
     "semver": "7.3.7",
-    "tslib": "2.4.0"
+    "tslib": "2.4.0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@tsconfig/svelte": "3.0.0",

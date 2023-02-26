@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash -x
 set -e
 
 # Keep
@@ -19,4 +19,4 @@ set -e
 
 yarn run dev
 # cp './main.js' '/Users/liam/Documents/Test Vault/.obsidian/plugins/calendar/'
-cp './main.js' '/Users/liam/Notes/.obsidian/plugins/calendar/'
+cp './main.js' ~/Dropbox/obsidian/.obsidian/plugins/calendar/
