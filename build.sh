@@ -19,4 +19,8 @@ set -e
 
 yarn run dev
 # cp './main.js' '/Users/liam/Documents/Test Vault/.obsidian/plugins/calendar/'
-cp './main.js' ~/Dropbox/obsidian/.obsidian/plugins/calendar/
+#mkdir -p ~/obsidian-plugin-dev/.obsidian/plugins/calendar/
+#cp ./main.js ~/obsidian-plugin-dev/.obsidian/plugins/calendar/
+#cp manifest.json ~/obsidian-plugin-dev/.obsidian/plugins/calendar/
+cp ./main.js ~/Dropbox/obsidian/.obsidian/plugins/calendar/
+cp manifest.json ~/Dropbox/obsidian/.obsidian/plugins/calendar/
